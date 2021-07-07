@@ -7,14 +7,15 @@ import { createGlobalStyle } from 'styled-components'
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+    }
 
-        html {
+    html {
             font-size: 62.6%;
         }
 
-        body {
-            background-color: lightgrey;
-        }
+    body {
+        background-color: #bacba9;
+        font-family: Roboto, sans-serif;
     }
 `
 
